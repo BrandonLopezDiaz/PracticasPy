@@ -8,7 +8,6 @@ saludar()
 def requerid(op1, op2):
     result = op1 + op2
     return result
-requerid(1+20)
 
 #argumos indeterminados pueden ser todos tipos de datos 
 def sumar(*args):
